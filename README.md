@@ -1,4 +1,4 @@
-# arch_models
+# Arch Models
 
 Estudo e desenvolvimento de modelos de aprendizado de maquina para series temporais, neste repositorio atualizo os modelos ARCH e GARCH aplicados em dados financeiros para entender os conceitos de residuos, volatilidade e previsão.
 
