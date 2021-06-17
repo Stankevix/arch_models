@@ -18,7 +18,8 @@ Working in progress
 
 ## Database
 
-Dados foram extraidos do site https://www.investing.com/
+Dados foram extraidos do site https://www.investing.com/. 
+Ações Itausa e S&P500
 
 ## Limitations
 
